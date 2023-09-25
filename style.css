@@ -1,0 +1,390 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+.logo{
+    margin-left: 140px;
+    margin-top:  -2px;
+}
+.header{
+    background: linear-gradient(180deg,#101010 0,#161616 100%);
+    width: 100% ;
+    height: 59.6px;
+    border-top: solid 2px #ffd400;
+    display: flex;
+    color: #fff;
+}
+.h-text{
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    margin-top: 20px;
+    font-size: 13px;
+    margin-left: 76px;
+}
+.h-text2{
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    margin-left: 15px;
+    margin-top: 18px;
+    opacity: .6 ;
+}
+.h-text3{
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 12px;
+}
+.h-text4{
+    font-size: 12px;
+    margin-left: 686px;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.h-text5{
+    margin-top: 16px;
+    margin-left: 30px;
+    opacity: .6 ;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.h-text6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 12px;
+    margin-left: 20px;
+}
+.body1{
+    width: 100%;
+}
+.img1{
+   
+    height: auto;
+   max-width: 100%;
+   
+    
+}
+.banner-text{
+    
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.b-text1{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 440px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text2{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text3{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text4{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text5{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text6{
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.b-text7{
+    letter-spacing: 1px;
+    font-weight: 600;
+    position: relative;
+    top: -579px;
+    margin-left: 46px;
+    color: #fff;
+    text-decoration: none;
+}
+.img2{
+    margin-left: 151px;
+}
+.img3{
+    
+    margin-left: 12px;
+}
+.img4{
+    margin-left: 12px;
+}
+.image-f{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+.h-text{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    background: linear-gradient(180deg,#101010 0,#161616 100%);
+    width: 100% ;
+    height: 126px;
+    display: flex;
+    color: #fff;
+    margin-top: 100px;
+}
+.h-h{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 148px;
+    margin-top: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.in-1{
+    display: block;
+    width: 261px;
+    height: 34px;
+    font-size: 14px;
+    margin-left: 400px;
+    margin-top: -45px;
+    outline: none;
+    border: none;
+    background: 0 0;
+    border: 1px solid #888;
+    color: #888;
+}
+.right-footer{
+    color: #fff;
+    border-top-right-radius: 1px;
+}
+.h-h2{
+
+    color: white;
+    margin-left: 216px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.t-t2{
+    font-size: 12.2px;
+    margin: 0;
+    color: #888;
+    max-width: 420px;
+    margin-left: 147px;
+    margin-top: -9px;
+    font-family: 'Roboto', sans-serif;
+}
+.t-t3{
+    font-size: 12.2px;
+    margin: 0;
+    color: #888;
+    max-width: 420px;
+
+    font-family: 'Roboto', sans-serif;
+    margin-left: 217px;
+    margin-top: -17px;
+}
+.f-logo{
+    position: absolute;
+    display: flex;
+    margin-left: 613px; 
+    margin-top: 20px;
+}
+.fa-brands{
+    margin-left: -68px;
+    margin-top: -50px;
+}
+.footer-2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.h-l{
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-weight: 600;
+}
+.s-1{
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-weight: 600;
+}
+.s-2{
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-weight: 600;
+}
+#face{
+    font-weight: 500;
+    margin-top: -5px;
+    color:  #909299;
+    margin-left: -1px;
+}
+#in{
+    font-weight: 500;
+    margin-top: -5px;
+    color: #909299;
+    margin-left: -1px;
+}
+#tw{
+    font-weight: 500;
+    margin-top: -5px;
+    color:  #909299;
+    margin-left: -1px;
+}
+#fol{
+    margin-left: -1px;
+    margin-top: 9px;
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 40px;
+    font-weight: 600;
+}
+#fa{
+    color:   #909299;
+    margin-top: -8px;
+    margin-left: 7px;
+    font-weight: 500;
+}
+#ig{
+    margin-top: -8px;
+    margin-left: 7px;
+    font-weight: 500;
+    color: #909299;
+}
+#ti{
+    color:   #909299;
+    margin-top: -9px;
+    margin-left: 7px;
+    font-weight: 500;
+}
+#mr{
+    color:   #909299;
+    margin-top: -9px;
+    margin-left: -1px;
+    font-weight: 500;
+}
+.right{
+    line-height: 17px;
+    margin-top: 35px;
+    margin-left: 145px;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.middle{
+    line-height: 17px;
+    margin-top: 35px;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.footer-2{
+    height: 290px;
+    display: flex;
+    justify-content: space-between;
+}
+.end{
+    font-weight: 500;
+    margin-top: 35px;
+    margin-right: 655px;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.middle-2{
+    line-height: 17px;
+    margin-top: 35px;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.footer3{
+    height: 71px;
+
+}
+#cop{
+    margin-top: 22px;
+    line-height: 80px;
+    margin-left: 135px;
+    font: 14px/1.5 Roboto,Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+}
+.banner-text a:hover{
+    color: #ffd400;
+}
+.b-text1:hover{
+    color: #ffd400;
+}
+.right p{
+    font-weight: 500;
+    margin-top: -5px; color:  #909299;
+}
+.right p:hover{
+    cursor: pointer;
+    color: white;
+}
+.middle p{
+    font-weight: 500;
+     margin-top: -5px;
+     color: #909299;
+     
+}
+.middle p:hover{
+    cursor: pointer;
+    color: white;
+}
+.middle-2 p{
+    font-weight: 500;
+    margin-top: -5px; 
+    color: #909299;
+}
+.middle-2 p:hover{
+    cursor: pointer;
+    color: white;
+}
+#in:hover{
+    color: white;
+    cursor: pointer;
+}
+#tw:hover{
+    color: white;
+    cursor: pointer;
+}
+#face:hover{
+    color: white;
+    cursor: pointer;
+}
+    
+#fa:hover{
+    cursor: pointer;
+    color: white;
+}
+#ig:hover{
+    cursor: pointer;
+    color: white;
+}
+#ti:hover{
+    cursor: pointer;
+    color: white;
+}
+#mr:hover{
+    cursor: pointer;
+    color: white;
+}
